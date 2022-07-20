@@ -1,0 +1,14 @@
+.navstyle{
+    color:white;
+    text-decoration: none;
+}
+
+.logoutStyle{
+    color:white;
+    text-decoration: none;
+}
+
+.logoutStyle:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

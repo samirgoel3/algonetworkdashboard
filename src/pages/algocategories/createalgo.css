@@ -1,0 +1,19 @@
+
+.page-heading{
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.page-description{
+    font-size: 15px;
+    color: #333333;
+}
+
+.input-container{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+}

@@ -1,0 +1,13 @@
+.left-container{
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: flex-start;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.heading{
+    color: white;
+    font-size: 16px;
+    font-weight: 800;
+}
